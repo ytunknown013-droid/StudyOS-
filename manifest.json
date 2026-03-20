@@ -2,7 +2,7 @@
   "name": "Study OS – Focus Terminal",
   "short_name": "Study OS",
   "description": "Your personal study focus terminal with timer, tasks, blocker and stats",
-  "start_url": "/index.html",
+  "start_url": "/StudyOS-/index.html",
   "display": "standalone",
   "background_color": "#0a0a0f",
   "theme_color": "#0a0a0f",
